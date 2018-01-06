@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to CCD[ CKEditor Chinesization Document]
+## 欢迎阅读 CKEditor 5 中文汉化文档
 
-You can use the [editor on GitHub](https://github.com/fzerotriluby/ccd.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+如果你还不知道什么是 CKEditor 5,请点击[这里](https://ckeditor.com/)
+如果你需要关于 CKEditor 5 更多的内容，请继续阅读下去。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 为什么创建该文档？
 
-### Markdown
+还有更多人因为语言的障碍，从而无法更好的使用或者是了解 CKEditor 5 这一简单地、方便地富文本编辑器。
+CKEditor 5 是一个能够在你的项目中让你快速简便地初始化多种类型的编辑器的程序。
+同时，它是开发你自己量身定制的富文本编辑解决方案的框架。CKEditor 5 Builds 的建立需要感谢 CKEditor 5 框架。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+该指南解释了 CKEditor 5 框架是如何建立的并怎样开始使用它。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fzerotriluby/ccd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 请更多人的加入这一不断持续的工程中 更新于2018.01.06
